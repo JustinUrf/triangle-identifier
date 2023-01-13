@@ -20,5 +20,6 @@ if ((a+b)<=c)|| ((a+c)<=b) || ((c+b)<=a)
 
 Isosceles: exactly 2 sides are equal.  (if (a = b) && (a = c) and (b != c)))
 
-Equilateral: all sides are equal. (if a = b = c)  ((a = b) and (b = c) and (a = c))
-Scalene: no sides are equal. if (a != b), (a != c) (b =! c), 
+/Equilateral: all sides are equal. (if a = b = c)  ((a = b) and (b = c) and (a = c))
+
+/Scalene: no sides are equal. if (a != b), (a != c) (b =! c), 
